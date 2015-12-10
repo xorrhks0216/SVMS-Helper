@@ -1,0 +1,8 @@
+C:\Users\Taekgwan\Desktop\SVMSHelper\SVMSHelper_3.5\SVMSHelper_3.5\bin\Debug\SVMSHelper_3.5.exe
+C:\Users\Taekgwan\Desktop\SVMSHelper\SVMSHelper_3.5\SVMSHelper_3.5\bin\Debug\SVMSHelper_3.5.pdb
+C:\Users\Taekgwan\Desktop\SVMSHelper\SVMSHelper_3.5\SVMSHelper_3.5\obj\Debug\SVMSHelper_3.5.csprojResolveAssemblyReference.cache
+C:\Users\Taekgwan\Desktop\SVMSHelper\SVMSHelper_3.5\SVMSHelper_3.5\obj\Debug\SVMSHelper_3._5.Form_main.resources
+C:\Users\Taekgwan\Desktop\SVMSHelper\SVMSHelper_3.5\SVMSHelper_3.5\obj\Debug\SVMSHelper_3._5.Properties.Resources.resources
+C:\Users\Taekgwan\Desktop\SVMSHelper\SVMSHelper_3.5\SVMSHelper_3.5\obj\Debug\SVMSHelper_3.5.csproj.GenerateResource.Cache
+C:\Users\Taekgwan\Desktop\SVMSHelper\SVMSHelper_3.5\SVMSHelper_3.5\obj\Debug\SVMSHelper_3.5.exe
+C:\Users\Taekgwan\Desktop\SVMSHelper\SVMSHelper_3.5\SVMSHelper_3.5\obj\Debug\SVMSHelper_3.5.pdb
